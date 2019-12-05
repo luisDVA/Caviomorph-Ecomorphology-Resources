@@ -56,7 +56,7 @@ Each file name (shown below without the file extension) is labeled with the foll
 | *_linear       | Names and descriptions of the linear traits and compound indices examined or calculated |
 | *_landmarks    | Description of landmark configurations used in geometric morphometrics analyses         |
 
-📂  Interactive web application
+📂  shiny_app
 
 Source code and data for the current version of the web application that can be used to explore the data in this repository. 
 
