@@ -1,0 +1,67 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+## Supplementary materials README guide 
+# Patterns in research and data-sharing for the study of form and function in caviomorph rodents
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+### Data description and general guide for working with the files uploaded to the repository. 
+
+Supplementary materials files are organized in the following three folders:
+
+
+📂  master_lists 
+
+Comma-separated text files with aggregate data from all studies, the reference taxonomy used throughout the analyses, and the data used to standardize and geocode the collections housing caviomorph specimens. These files are used by the RMarkdown reporting scripts. 
+
+| File                       | Description                                                                                       |
+|----------------------------|---------------------------------------------------------------------------------------------------|
+| asm-species-2018-10-02.csv | Reference taxonomy, downloaded from Mammaldiversity.org (downloaded November 2018)                |
+| master-accessions.csv      | DNA sequence identifiers                                                                          |
+| master-diet.csv            | Feeding strategies/diets                                                                          |
+| master-habitats.csv        | Habitat preferences                                                                               |
+| master-habits.csv          | Substrate use strategies/habits                                                                   |
+| master-morphology.csv           | Morphology trait values                                                                           |
+| master-specimens.csv       | Specimens examined with standardized and geocoded collection data                                 |
+| museums.csv                | Standardized collection names (see main text for sources)                                         |
+| museum_locations.csv       | Collection locations, obtained through the Opencage geocoding service (https://opencagedata.com/) |
+
+
+📂  relational_data
+
+Comma-separated text files containing all the redigitized data available in the 41 studies reviewed. Two common variables in the files can be used to establish relationships between them; the `sp` column contains the study taxa (observational units) and the `study` column refers to the source of the data.
+
+These data can be explored interactively through a web application at https://github.com/luisDVA/Caviomorph-Ecomorphology-Resources-App. 
+
+
+Each file name (shown below without the file extension) is labeled with the following suffixes to identify its content: 
+
+| File suffix    | Description                                                                             |
+|----------------|-----------------------------------------------------------------------------------------|
+| *_accessions   | Identifiers for DNA sequences                                                           |
+| *_traits_eco   | Ecological trait values                                                                 |
+| *_traits_morph | Morphology trait values                                                                 |
+| *_specimens    | Specimens examined                                                                      |
+| *_linear       | Names and descriptions of the linear traits and compound indices examined or calculated |
+| *_landmarks    | Description of landmark configurations used in geometric morphometrics analyses         |
+
+📂  Interactive web application
+
+Source code and data for the current version of the web application that can be used to explore the data in this repository. 
+
+
+
+
+
+

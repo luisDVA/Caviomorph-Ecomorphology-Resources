@@ -1,0 +1,100 @@
+number,character,state,value,study
+1,Rostral masseteric fossa,"dorsal to the alveolar sheath of I1, progressively narrow anteriad, shallow, and ending with a pointed outline level with the anterior end of the incisive foramina ",0,Verzi 2008
+1,Rostral masseteric fossa,"dorsal to the alveolar sheath of the I1, deep and ending in a curved crest slightly anterior to or level with the premaxillary–maxillary suture ",1,Verzi 2008
+1,Rostral masseteric fossa,"with portions dorsal and ventral to the alveolar sheath of I1 present and shallow, the anterior end occupying almost the entire height of the rostrum and limited by a more straight crest located ventrally level with the anterior end of the incisive foramina or anterior to them ",2,Verzi 2008
+1,Rostral masseteric fossa,"with portions dorsal and ventral to the alveolar sheath of I1 present and very deep, portion ventral to the I1 extending greatly anterior to the incisive foramina ",3,Verzi 2008
+2,Lateral flange of the canal for infraorbital nerve,"present, and with free dorsal margin ",0,Verzi 2008
+2,Lateral flange of the canal for infraorbital nerve,present and with dorsal margin in contact with bottom of alveolar sheath of upper incisor ,1,Verzi 2008
+2,Lateral flange of the canal for infraorbital nerve,very wide and covering bottom of alveolar sheath of upper incisor laterally and posteriorly ,2,Verzi 2008
+2,Lateral flange of the canal for infraorbital nerve,very reduced or absent ,3,Verzi 2008
+3,Bottom of alveolar sheath of upper incisor,"free in the diastema, or in the orbital region ",0,Verzi 2008
+3,Bottom of alveolar sheath of upper incisor,"lodged in a cavity of the maxillary, anterior to alveolar sheath of M1 ",1,Verzi 2008
+3,Bottom of alveolar sheath of upper incisor,"lodged in a cavity of the maxillary, lateral to alveolar sheath of M1 ",2,Verzi 2008
+4,Incisive foramina,"with lateral walls concave and approximately symmetric anterior and posterior to the premaxillary-maxillary suture, suture located near middle of lateral wall of the foramen or more anteriorly ",0,Verzi 2008
+4,Incisive foramina,"foramina extended and progressively narrow anterior to the premaxillary-maxillary suture, suture nearer to posterior part of the foramen ",1,Verzi 2008
+5,Premaxillary-maxillary suture at medial margin of incisive foramen,level with its portion lateral to the foramen ,0,Verzi 2008
+5,Premaxillary-maxillary suture at medial margin of incisive foramen,displaced forward ,1,Verzi 2008
+6,Ventral margin of rostrum,not widened or only slightly widened but without protuberance at premaxillary-maxillary suture ,0,Verzi 2008
+6,Ventral margin of rostrum,widened forming a marked protuberance level with premaxillary-maxillary suture ,1,Verzi 2008
+7,Incisive foramina,"wide, at least ¼ of rostrum width (both measured at the premaxillary-maxillary suture ",0,Verzi 2008
+7,Incisive foramina,"narrow, less than ¼ of rostrum width ",1,Verzi 2008
+8,Anterior extension of the maxillary into posterior margin of incisive foramen,scarcely developed or absent ,0,Verzi 2008
+8,Anterior extension of the maxillary into posterior margin of incisive foramen,"maxillary extended anteriad, on the same horizontal plane as premaxillary septum, constraining the incisive foramen posteriorly ",1,Verzi 2008
+8,Anterior extension of the maxillary into posterior margin of incisive foramen,"maxillary extended anterodorsally with respect to premaxillary septum, constraining the incisive foramen posteriad ",2,Verzi 2008
+9,Premaxillary septum,with posterior ends of premaxillaries joined medially forming a pointed projection ,0,Verzi 2008
+9,Premaxillary septum,"with posterodorsal ends of premaxillaries divergent, each one forming a lateral apophysis ",1,Verzi 2008
+10,Antorbital zygomatic ramus,"uniform in width in anterior view, without medial edge on its dorsal portion ",0,Verzi 2008
+10,Antorbital zygomatic ramus,with the dorsal portion wider in anterior view because of the presence of a medial edge ,1,Verzi 2008
+11,Suborbital fossa in jugal bone,absent ,0,Verzi 2008
+11,Suborbital fossa in jugal bone,present and well developed ,1,Verzi 2008
+11,Suborbital fossa in jugal bone,reduced ,2,Verzi 2008
+12,Foramen into nasolacrimal canal,"visible laterally, maxillary continuous around foramen ",0,Verzi 2008
+12,Foramen into nasolacrimal canal,"visible laterally, maxillary with a lamina posterior to nasolacrimal canal, divided by suture from the rest of the bone ",1,Verzi 2008
+12,Foramen into nasolacrimal canal,"hidden within sphenopalatine foramen along with posterior lamina of maxillary bone, neither visible in lateral view ",2,Verzi 2008
+13,Sphenopalatine foramen,oblique and extended posteriorly over alveolar sheath of M1 or M1-2 ,0,Verzi 2008
+13,Sphenopalatine foramen,"divided by M1 alveolar sheath into vertical portion anterior to M1 alveolar sheath, and posterior portion dorsal to M1 alveolar sheath ",1,Verzi 2008
+13,Sphenopalatine foramen,"vertical in front of M1 alveolar sheath, with or without independent relict posterior to M1 ",2,Verzi 2008
+14,Alveolar sheath of molars,not externally visible in the orbital region ,0,Verzi 2008
+14,Alveolar sheath of molars,protruding into the orbital region ,1,Verzi 2008
+15,Alveolar sheath of M1,"not hidden inside sphenopalatine foramen, or only a small section of its dorsal portion hidden inside foramen ",0,Verzi 2008
+15,Alveolar sheath of M1,hidden inside sphenopalatine foramen ,1,Verzi 2008
+16,External auditory meatus (EAM),"short, moderately protruding with respect to auditory bulla and epitympanic recess (ER) ",0,Verzi 2008
+16,External auditory meatus (EAM),"protruding, with anterodorsal and anterior margin oriented anteriad, forming a smooth anterior concavity ",1,Verzi 2008
+16,External auditory meatus (EAM),"forming a protruding tube with its anterior wall moderately to very concave, ER forming a horizontal flat surface ",2,Verzi 2008
+16,External auditory meatus (EAM),"forming a protruding tube very narrow anteroposteriorly and kidney-shaped in cross section due to marked concavity of its anterior wall, ER dorsal to the EAM, very narrow ",3,Verzi 2008
+17,Zygomatic portion of squamosal,subhorizontal and forming at least the posterior half of paraorbitary process ,0,Verzi 2008
+17,Zygomatic portion of squamosal,"never reaching the end of paraorbitary process, this process formed mostly or exclusively by the jugal ",1,Verzi 2008
+18,Maxillary and alisphenoid in basitemporal region,contacting each other or separated by dorsal portion of the lateral palatine plate ,0,Verzi 2008
+18,Maxillary and alisphenoid in basitemporal region,"separated by dorsal portion of the lateral palatine plate, which is expanded over both the alveolar sheath of M3 and the alisphenoid ",1,Verzi 2008
+18,Maxillary and alisphenoid in basitemporal region,strongly joined through a maxillary apophysis posterolateral to the M3 alveolar sheath ,2,Verzi 2008
+19,Paroccipital process,"oriented ventrally, with its free end separated from the bulla and ventral to the latter (0). Short, more laterally oriented and completely joined to the bulla ",1,Verzi 2008
+20,Auditory bulla,ovoid ,0,Verzi 2008
+20,Auditory bulla,"pyriform, with anterior portion narrow and strongly oblique major axis ",1,Verzi 2008
+20,Auditory bulla,"pyriform, very narrow, with a pit ventrolateral to the EAM ",2,Verzi 2008
+21,Glenoid fossa,"subhorizontal, or slightly ascending posteriorly ",0,Verzi 2008
+21,Glenoid fossa,strongly ascending posteriorly ,1,Verzi 2008
+22,Origin of masseteric crest of the mandible,incorporating the notch for the tendon of M. masseter medialis ,0,Verzi 2008
+22,Origin of masseteric crest of the mandible,posterior to the notch ,1,Verzi 2008
+23,Masseteric area of the mandible,without protuberances corresponding to bottom portion of  alveoli of molars ,0,Verzi 2008
+23,Masseteric area of the mandible,"with a rounded protuberance near origin of masseteric crest, corresponding to the bottom of alveolus of m2 ",1,Verzi 2008
+23,Masseteric area of the mandible,"with a protuberance that lacks distinct margins, corresponding to the bottom of alveolus of m2, placed between dorsal and ventral divisions of the masseteric fossa, ",2,Verzi 2008
+23,Masseteric area of the mandible,"with a marked ovoid protrusion corresponding to the bottom of alveolus of m3, between the dorsal and ventral divisions of the masseteric fossa ",3,Verzi 2008
+23,Masseteric area of the mandible,with a scarcely visible protrusion corresponding to the bottom of alveolus of m3 in the dorsal division of the masseteric fossa ,4,Verzi 2008
+24,Postcondyloid process,"developed, with a weak protuberance on its ventral margin or without it ",0,Verzi 2008
+24,Postcondyloid process,very reduced or absent ,1,Verzi 2008
+24,Postcondyloid process,with a strong lateral apophysis on its ventral margin ,2,Verzi 2008
+25,Dorsal division of masseteric fossa of mandible,"subvertical, its lower margin oriented ventrally toward masseteric crest ",0,Verzi 2008
+25,Dorsal division of masseteric fossa of mandible,"more horizontal, its lower margin converging with origin of masseteric crest ",1,Verzi 2008
+25,Dorsal division of masseteric fossa of mandible,visible only in its posterodorsal portion ,2,Verzi 2008
+26,Chin process,"level with dp4 in lateral view, or slightly anterior ",0,Verzi 2008
+26,Chin process,behind the level of dp4 ,1,Verzi 2008
+27,Mandibular diastema,without a step anterior to dp4 ,0,Verzi 2008
+27,Mandibular diastema,with a step anterior to dp4 ,1,Verzi 2008
+28,Bottom of m1 alveolus,"slightly protruding in the mandible, and anterior to origin of masseteric crest ",0,Verzi 2008
+28,Bottom of m1 alveolus,forming a marked protrusion at origin of masseteric crest ,1,Verzi 2008
+29,Molars,with flexi and flexids persistent in adults ,0,Verzi 2008
+29,Molars,only with mesoflexus/id and hypoflexus/id persistent ,1,Verzi 2008
+29,Molars,"with flexi vestigial or absent, and reduced flexids ",2,Verzi 2008
+29,Molars,with flexi/ids vestigial or absent ,3,Verzi 2008
+30,DP4-M2,with transverse lophs ,0,Verzi 2008
+30,DP4-M2,"eight shaped, with two transverse lobes separated by the hypoflexus and mesoflexus ",1,Verzi 2008
+30,DP4-M2,with posterior lobe not labially extended and without flexi ,2,Verzi 2008
+31,Anterior lobe of DP4-M2,not protruding toward labial side ,0,Verzi 2008
+31,Anterior lobe of DP4-M2,moderately protruding toward labial side ,1,Verzi 2008
+31,Anterior lobe of DP4-M2,markedly protruding and transverse ,2,Verzi 2008
+31,Anterior lobe of DP4-M2,markedly protruding and oriented anterolabially ,3,Verzi 2008
+32,M3,"not reduced to moderately reduced, with morphology similar to remaining molars ",0,Verzi 2008
+32,M3,"reduced, with occlusal outline subcircular and posterior lobe narrow ",1,Verzi 2008
+32,M3,"reduced, with posterior or posterolingual face flat and anterior lobe protruding ",2,Verzi 2008
+33,Occlusal design of Dp4-m2,transverse lophids ,0,Verzi 2008
+33,Occlusal design of Dp4-m2,figure eight-shaped ,1,Verzi 2008
+33,Occlusal design of Dp4-m2,subrhombic to crescent-shaped ,2,Verzi 2008
+34,Occlusal design of Dp4-m2, transverse lophids ,0,Verzi 2008
+34,Occlusal design of Dp4-m2,"figure eight-shaped, with two transverse lobes separated by hypoflexid and mesoflexid ",1,Verzi 2008
+34,Occlusal design of Dp4-m2,"slightly oblique rounded lobes, with reduced hypoflexid and mesoflexid ",2,Verzi 2008
+34,Occlusal design of Dp4-m2,subrhombic to crescent-shaped and with a lingual concavity limited by an anterior protrusion ,3,Verzi 2008
+34,Occlusal design of Dp4-m2,subrhombic with a weak labial fold (trace of hypoflexid?) ,4,Verzi 2008
+34,Occlusal design of Dp4-m2,semilunar with a weak labial fold ,5,Verzi 2008
+34,Occlusal design of Dp4-m2,subrhombic with weak labial and lingual folds (traces of flexids?) to semilunar and with only a wide lingual concavity ,6,Verzi 2008
+35,m3,"not reduced or moderately reduced, with morphology similar to that of the remaining molars and implanted dorsolaterally to incisor ",0,Verzi 2008
+35,m3,"very reduced, subelliptic to subcircular in cross section, with posterolateral or posterior implantation, dorsal to i1 ",1,Verzi 2008
