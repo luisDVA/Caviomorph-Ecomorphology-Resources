@@ -6,7 +6,7 @@
 Luis D. Verde Arregoitia, Pablo Teta, & Guillermo D’Elía (2019) _Journal of Mammalogy_
 
 <!-- badges: start -->
-
+[![DOI](https://zenodo.org/badge/226196041.svg)](https://zenodo.org/badge/latestdoi/226196041)
 <!-- badges: end -->
 
 ### Data description and general guide for working with the supplementary files.
