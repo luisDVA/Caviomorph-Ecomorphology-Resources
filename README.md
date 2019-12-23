@@ -1,15 +1,15 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-
-## Supplementary materials README guide
+### Supplementary materials README guide
 
 # Patterns in research and data-sharing for the study of form and function in caviomorph rodents
+Luis D. Verde Arregoitia, Pablo Teta, & Guillermo D’Elía (2019) _Journal of Mammalogy_
 
 <!-- badges: start -->
 
 <!-- badges: end -->
 
-### Data description and general guide for working with the files uploaded to the repository.
+### Data description and general guide for working with the supplementary files.
 
 Supplementary materials files are organized in the following three
 folders:
@@ -19,8 +19,7 @@ folders:
 Comma-separated text files with aggregate data from all studies, the
 reference taxonomy used throughout the analyses, and the data used to
 standardize and geocode the collections housing caviomorph specimens.
-These files are used by the RMarkdown reporting
-scripts.
+  
 
 | File                       | Description                                                                                         |
 | -------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -60,5 +59,9 @@ content:
 
 📂 shiny\_app
 
-Source code and data for the current version of the web application that
+Source code and data for the current version (December 2019) of the web application that
 can be used to explore the data in this repository.
+
+
+#### This dataset ("Caviomorph Ecology Resources") is made available under the Open Data Commons Attribution License: http://opendatacommons.org/licenses/by/1.0.
+
